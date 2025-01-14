@@ -1,2 +1,6 @@
 *.xlsx
 *.Identifier
+.Rproj.user
+*.RData
+*.Rhistory
+*.Rproj
